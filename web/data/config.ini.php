@@ -1,0 +1,10 @@
+; <?php return; ?> DO NOT DELETE THIS LINE
+dbtype="mysql"
+dbhost="103.163.138.107"
+dbport="3306"
+dbuser="aafmyid_banisaid"
+dbpass="passwordbanisaid"
+dbname="aafmyid_banisaid"
+tblpfx="wt_"
+base_url="https://exciting-murial-banisaid-1d74419b.koyeb.app"
+rewrite_urls="0"
